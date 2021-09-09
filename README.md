@@ -1,7 +1,3 @@
 # SVM Optimization
 
-Implementazione del modello svm con metodi di ottimizzazione basati sul gradiente e gradiente stocastico.
-
-## Nota:
-Si nota che rispetto al pacchetto sklearn i modelli implementati utilizzano funzioni di Loss differenti, di conseguenza è normale che
-si ottengono i valori dei parametri stimati differenti.
+implementation of svm model based on gradient and stochastic gradient optimization.
